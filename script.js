@@ -17,7 +17,6 @@ console.log(typeof "frog");
 
 // question 6
 var orderHasShipped = true;
-console.log(orderHasShipped);
 
 // question 7 (when saving on vscode it gives an extra parentheses)
 var orderHasShipped = true;
